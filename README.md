@@ -3,9 +3,9 @@ A Solidity smart contract that accepts two user addresses to control a joint sav
 
 ## Technologies
 
-This application works on python 3.7 and uses following libraries:
+This application works on:
 
-* [Solidity](https://github.com/matplotlib/matplotlib.git) - For creating static, animated, and interactive visualizations.
+* [Solidity](https://docs.soliditylang.org/en/v0.8.13/) - Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 
 ---
 
